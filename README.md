@@ -2,6 +2,12 @@
 
 A simple, beautiful, and printable HTML-based personal finance tracker for managing monthly cashflows and investment strategies.
 
+![Income and Expenses Tracking](screenshots/income-expenses.png)
+*Track your income sources and categorize expenses*
+
+![Investment Strategy and Performance](screenshots/investment-strategy.png)
+*Manage portfolio allocation and monitor investment performance*
+
 ## ✨ Features
 
 - **Real-time Calculations**: Automatic totals, net cashflow, savings rate, and ROI calculations
@@ -18,6 +24,18 @@ A simple, beautiful, and printable HTML-based personal finance tracker for manag
 3. Start filling in your income and expenses
 4. Add your custom investments using the + button
 5. Print or save when done!
+
+## 📸 Screenshots
+
+### Income & Expenses
+The tracker provides a clean interface to log all your income sources and categorize expenses into fixed and variable costs.
+
+### Investment Strategy
+Visualize your portfolio allocation with interactive progress bars and track the performance of each investment with automatic ROI calculations.
+
+*To add screenshots to your repository:*
+1. Create a `screenshots` folder in your GitHub repo
+2. Upload your images as `income-expenses.png` and `investment-strategy.png`
 
 ## 📊 What You Can Track
 
@@ -91,4 +109,4 @@ If you find this useful, please:
 
 ---
 
-**Made with love for better financial awareness**
+**Made with ❤️ for better financial awareness**
