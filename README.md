@@ -2,10 +2,10 @@
 
 A simple, beautiful, and printable HTML-based personal finance tracker for managing monthly cashflows and investment strategies.
 
-![Income and Expenses Tracking](screenshots/income-expenses.png)
+![Income and Expenses Tracking](screenshots/income-expenses.PNG)
 *Track your income sources and categorize expenses*
 
-![Investment Strategy and Performance](screenshots/investment-strategy.png)
+![Investment Strategy and Performance](screenshots/investment-strategy.PNG)
 *Manage portfolio allocation and monitor investment performance*
 
 ## ✨ Features
